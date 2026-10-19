@@ -1,0 +1,16 @@
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Downloaded datasets and generated model/training artifacts
+.cache/
+cache/
+models/
+results/
+performance/
+
+# Local editor and environment files
+.env
+.vscode/
